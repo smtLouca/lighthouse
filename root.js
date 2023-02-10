@@ -6,6 +6,8 @@
 
 import fs from 'fs';
 
+j'ai bug
+
 import {getModuleDirectory} from './esm-utils.js';
 
 const LH_ROOT = getModuleDirectory(import.meta);
